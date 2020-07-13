@@ -1,0 +1,26 @@
+[[package]]
+category = "main"
+description = "The geodesic routines from GeographicLib"
+name = "geographiclib"
+optional = false
+python-versions = "*"
+version = "1.50"
+
+[[package]]
+category = "main"
+description = "Python Geocoding Toolbox"
+name = "geopy"
+optional = false
+python-versions = "*"
+version = "1.21.0"
+
+[package.dependencies]
+geographiclib = ">=1.49,<2"
+
+[metadata]
+content-hash = "7f4d9609d3cfac059edc760fa197286554a19b63271cacc0eb86928985a2adfa"
+python-versions = "^3.7"
+
+[metadata.hashes]
+geographiclib = ["12bd46ee7ec25b291ea139b17aa991e7ef373e21abd053949b75c0e9ca55c632", "51cfa698e7183792bce27d8fb63ac8e83689cd8170a730bf35e1a5c5bf8849b9"]
+geopy = ["5de6fed0ee982e43a8e4243410477567cfccac22f8530edffc422761adf4e612", "dc02b43ca5202696907b6b4f72431c8df455c812889dbb4e1240a672857f3adc"]
