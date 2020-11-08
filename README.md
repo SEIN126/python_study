@@ -4,7 +4,10 @@
 > https://www.youtube.com/playlist?list=PLa7Lj786Q-Gts3-LsBl5I56YQrQb4sHxI
 > studied by 유투버 테크보이 워니
 
+
 # contents
+
+링크를 클릭하시면 해당 내용으로 이동합니다. 
 
 * [변수 타입, 조건문, 함수](https://github.com/SEIN126/python_study/tree/master/variable%2C%20function)
 * [반복문](https://github.com/SEIN126/python_study/tree/master/%EB%B0%98%EB%B3%B5%EB%AC%B8)
